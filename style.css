@@ -1,0 +1,109 @@
+h1 {
+color: white;
+background-position: center;
+background-size: fix;
+font-family:'Bungee Outline';
+font-size: 270px;
+background-image: url("hqdefault.jpg");
+repeat:25px;
+}
+
+nav {
+
+  list-style-type: none;
+
+
+  overflow: hidden;
+
+  font-size: 95px;
+
+
+
+
+}
+
+li {
+  font-family:'Bungee Outline';
+
+  color: white;
+  float: left;
+
+  justify-content: center;
+    display: inline;
+    background-position: center center;
+	background-size:cover;
+  position: relative;
+
+
+
+}
+
+li a {
+  font-family:'Bungee Outline';
+
+color: black;
+  display: inline;
+
+
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 55px;
+
+  justify-content: center;
+  background-position: center center;
+	background-size:cover;
+  position: relative;
+}
+
+li a:hover {
+  font-family:'Bungee Outline';
+
+color: white;
+  background-color: black;
+    font-size:55px;
+
+    justify-content: center;
+      display: inline;
+      background-position: center center;
+	background-size:cover;
+
+}
+
+
+
+h4{
+  font-size: 50px;
+  font-color: white;
+  font-family:'Bungee Outline';
+  background-color: white;
+  background-position: center;
+background-repeat: no-repeat;
+
+
+
+
+
+
+
+  text-align: left;
+}
+
+paragraph{
+  font-size: 20px;
+  font-family: monospace;
+
+text-indent: 15px
+
+}
+
+p{
+  font-size: 20px;
+  font-family: monospace;
+}
+
+yo{
+  font-size: 20px;
+  font-family: monospace;
+  justify-content: flex-end;
+}
